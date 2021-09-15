@@ -1,7 +1,7 @@
 <h1>I'm Leonardo</h1>
 
 <h2 align="center">
-Full Stack Developer :heart: from Argentina to :earth_americas:
+Full Stack Developer
 </h2>
 
 &nbsp;&nbsp;
