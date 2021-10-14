@@ -21,14 +21,18 @@ Tengo interés en aprender tecnologías para trabajar con blockchain, IA y machi
 ## :star: Lenguajes y herramientas:
 
 <div>
-    <div>
+    <!-- <div>
         <h4>JavaScript</h4>
         <img width="5%" src="./logos/JS.png">
     </div> &nbsp;
     <div>
         <h4>HTML</h4>
         <img width="5%" src="./logos/HTML.png">
-    </div>
+    </div> -->
+        <h4>JavaScript</h4>
+        <img width="5%" src="./logos/JS.png">
+        <h4>HTML</h4>
+        <img width="5%" src="./logos/HTML.png">
     <div>
         <h4>CSS</h4>
         <img width="5%" src="./logos/CSS.png">
