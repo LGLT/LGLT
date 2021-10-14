@@ -29,9 +29,9 @@ Tengo interés en aprender tecnologías para trabajar con blockchain, IA y machi
         <h4>HTML</h4>
         <img width="5%" src="./logos/HTML.png">
     </div> -->
-        <h4>JavaScript</h4>
+        <!-- <h4>JavaScript</h4> -->
         <img width="5%" src="./logos/JS.png">
-        <h4>HTML</h4>
+        <!-- <h4>HTML</h4> -->
         <img width="5%" src="./logos/HTML.png">
     <div>
         <h4>CSS</h4>
