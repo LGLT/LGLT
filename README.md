@@ -21,38 +21,34 @@ Tengo interés en aprender tecnologías para trabajar con blockchain, IA y machi
 ## :star: Lenguajes y herramientas:
 
 <div>
-    <!-- <div>
+    <!-- <div> -->
         <h4>JavaScript</h4>
         <img width="5%" src="./logos/JS.png">
-    </div> &nbsp;
-    <div>
+    <!-- </div> &nbsp; -->
+    <!-- <div> -->
         <h4>HTML</h4>
         <img width="5%" src="./logos/HTML.png">
-    </div> -->
-        <!-- <h4>JavaScript</h4> -->
-        <img width="5%" src="./logos/JS.png">
-        <!-- <h4>HTML</h4> -->
-        <img width="5%" src="./logos/HTML.png">
-    <div>
+    <!-- </div> -->
+    <!-- <div> -->
         <h4>CSS</h4>
         <img width="5%" src="./logos/CSS.png">
-    </div>
-    <div>
+    <!-- </div> -->
+    <!-- <div> -->
         <h4>React</h4>
         <img width="5%" src="./logos/ReactJS.png">
-    </div>
-    <div>
+    <!-- </div> -->
+    <!-- <div> -->
         <h4>NodeJS</h4>
         <img width="5%" src="./logos/NodeJS.png">
-    </div>
-    <div>
+    <!-- </div> -->
+    <!-- <div> -->
         <h4>React-Redux</h4>
         <img width="5%" src="./logos/ReactRedux.png">
-    </div>
-    <div>
+    <!-- </div> -->
+    <!-- <div> -->
         <h4>Express</h4>
         <img width="5%" src="./logos/ExpressJS.png">
-    </div>
+    <!-- </div> -->
 </div>
 
 &nbsp;
