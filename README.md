@@ -20,8 +20,8 @@ Tengo interés en aprender tecnologías para trabajar con blockchain, IA y machi
 
 ## :star: Lenguajes y herramientas:
 
-<span >
-    <div>
+<div>
+<div>
         <h4>JavaScript</h4>
         <img width="5%" src="./logos/JS.png">
     </div>
@@ -49,8 +49,7 @@ Tengo interés en aprender tecnologías para trabajar con blockchain, IA y machi
         <h4>Express</h4>
         <img width="5%" src="./logos/ExpressJS.png">
     </div>
-
-</span>
+</div>
 
 &nbsp;
 
